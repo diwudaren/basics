@@ -1,4 +1,4 @@
-package com.qr;
+package com.qr.array;
 
 /**
  * 循环的作业
