@@ -3,7 +3,7 @@ package com.qr.object;
 public class FinalExercise01 {
 
     public static void main(String[] args) {
-        System.out.println(new FinalExercise().radius);
+        System.out.println(new FinalExercise().calculate());
     }
 
 
